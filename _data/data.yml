@@ -7,59 +7,48 @@ sidebar:
     education: True # set to False if you want education in main section instead of in sidebar
 
     # Profile information
-    name: Alan Doe
-    tagline: Full Stack Developer
+    name: Amna Khalid
+    tagline: Student at Denison University
     avatar: profile.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
     # Sidebar links
-    email: hello@webjeda.com
-    phone: 012 345 6789
-    website: blog.webjeda.com #do not add http://
-    linkedin: alandoe
-    xing: alandoe
-    github: sharu725
-    telegram: # add your nickname without '@' sign
-    gitlab:
-    bitbucket:
-    twitter: '@webjeda'
-    stack-overflow: # Number/Username, e.g. 123456/alandoe
-    codewars:
-    goodreads: # Number-Username, e.g. 123456-alandoe
-    pdf: http://www.africau.edu/images/default/sample.pdf
+    email: khalid_a1@denison.edu
+    phone: (734) 727 3162
+    linkedin: -amna-khalid-world
+    github: khalid-a-1
+
 
     languages:
       - idiom: English
+        level: Professional
+
+      - idiom: Urdu
         level: Native
 
-      - idiom: French
-        level: Professional
+      - idiom: Punjabi
+        level: Intermediate
 
-      - idiom: Spanish
-        level: Professional
-
-    interests:
-      - item: Climbing
-        link:
-
-      - item: Snowboarding
-        link:
-
-      - item: Cooking
-        link:
 
 career-profile:
-    title: Career Profile
+    title: About me
     summary: |
-      Summarise your career here lorem ipsum dolor sit amet, consectetuer
-      adipiscing elit. You can [download this free resume/CV template here]().
-      Aenean commodo ligula eget dolor aenean massa. Cum sociis natoque
-      penatibus et magnis dis parturient montes, nascetur ridiculus mus.
-      Donec quam felis, ultricies nec, pellentesque eu.
-      Second paragraph if required.
+      Growing up in Pakistan, an early lesson I was taught was that computer
+      science is a man’s field. However, negative stereotyping did not impede
+      my interest in the field. In fact, I grew more stubborn to become part of
+      a field that was reluctant to admit me. So I started applying for my
+      bachelor’s degree abroad to different countries where women had more autonomy
+      and opportunities to navigate their field of choice. As soon as I received
+      my merit-based scholarship from Denison, I flew halfway across the world to
+      explore the marvels of computers. Since then, I have had rigorous courses
+      involving building data structures, understanding the mathematical foundations
+      of computer science, and working within computer systems. My hope is to
+      graduate with my degree in computer science as a woman of color and have
+      a career in a company where I can employ my skillset to better myself and
+      those around me.
 education:
-    - degree: MSc in Computer Science
-      university: University of London
-      time: 2011 - 2012
+    - degree: Bachelor of Science in Computer Science
+      university: Denison University
+      time: 2018-2022
       details: |
         Describe your study here lorem ipsum dolor sit amet, consectetuer
         adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
@@ -68,125 +57,149 @@ education:
         pretium quis, sem.
           - Bullet point
           - Bullet point
-    - degree: BSc in Applied Mathematics
-      university: Bristol University
-      time: 2007 - 2011
-      details: |
-        Describe your study here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
-        sociis natoque penatibus et magnis dis parturient montes, nascetur
-        ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
-        pretium quis, sem.
-          - Bullet point
-          - Bullet point
+
 experiences:
-    - role: Lead Developer
-      time: 2015 - Present
-      company: Startup Hubs, San Francisco
+    - role: Peer Career Fellow
+      time: Fall 2021 - Present
+      company: Knowlton Center for Career Exploration, Denison University
       details: |
-        Describe your role here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-        Cum sociis natoque penatibus et magnis dis parturient montes,
-        nascetur ridiculus mus. Donec quam felis, ultricies nec,
-        pellentesque eu, pretium quis, sem. Nulla consequat massa quis
-        enim. Donec pede justo. Sed ut perspiciatis unde omnis iste natus
-        error sit voluptatem accusantium doloremque laudantium, totam rem
-        aperiam, eaque ipsa quae ab illo inventore veritatis et quasi
-        architecto beatae vitae dicta sunt explicabo.
-          - Bullet point
-          - Bullet point
-    - role: Senior Software Engineer
-      time: 2014 - 2015
-      company: Google, London
+        Over the semester, I serve as a Peer Career Fellow for the Science,
+        Technology and Data Career Community. I help students connect with the
+        Knowlton Center using career development strategies and engagement opportunities
+        to ensure a successful career for students post-Denison.
+          - Assessed the UConnect website, to help make developmental changes to achieve
+          a user-friendly interface using agile scrum methodology.
+          - Increased productivity by organizing and reviewing job postings retrieved
+          via APIs.
+          - Actively mentoring junior fellows in my team by bringing in new insights and
+          perspectives on tech and computational mechanisms that stretch the thinking
+          of the group.
+          - Served as an ambassador, promoting student interests through career workshops,
+          articles, blogs, and social content.
+          - Built and maintained strong working networks with students that strengthened
+          alumni connections.
+
+    - role: Software Developer Intern
+      time: Summer 2021
+      company: SM Associates and Builders, Islamabad, Pakistan
       details: |
-        Describe your role here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-        Cum sociis natoque penatibus et magnis dis parturient montes,
-        nascetur ridiculus mus. Donec quam felis, ultricies nec,
-        pellentesque eu, pretium quis, sem.
-          - Bullet point
-          - Bullet point
-    - role: UI Developer
-      time: 2012 - 2014
-      company: Amazon, London
+        Over the summer, I interned at a real estate investment company,
+        combining data science to help solve the toughest challenges in
+        real estate investment management and private equity.
+          - Designed and applied an automated solution to a monthly task
+          that took 18+ hours and reduced it to 1-hour max.
+          - Collaborated with investment professionals to integrate
+          predictive insights, enabling clients to make purchasing decisions
+          based on property inflammation trends.
+          - Reviewed and tested code for full-stack software development,
+          building APIs, libraries, and user interfaces.
+          - Communicated product priorities to stakeholders using scrum methodology.
+          - Saved upwards of $10K within the property maintenance budgets.
+          - Introduced to the functioning of Angular.
+
+    - role: Teachers Assistant
+      time: Fall 2020 - Present
+      company: Black Studies, Denison University
       details: |
-        Describe your role here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-        Cum sociis natoque penatibus et magnis dis parturient montes,
-        nascetur ridiculus mus. Donec quam felis, ultricies nec,
-        pellentesque eu, pretium quis, sem.
-          - Bullet point
-          - Bullet point
+        During the school year, I deliver technical support and educational resources
+        to the professor and students to ensure smooth workflow. Provide educational
+        support to students by managing and administering educational resources.
+        - Support to the professor and students with technology as well as educational
+        resources to navigate specific technology platforms such as unity.
+        - Surveyed and used computational marketing tools to find better ways to
+        connect students with advertisements in order to promote the
+        BLST department and its events.
+
+    - role: Summer Researcher
+      time: Summer 2020
+      company: Anthropology and Sociology Department, Denison University
+      details: |
+        Over the course of my life, empowering women has been a subject close to my
+        heart. So I came up with a research project reflecting women’s shortcomings
+        in my home country. I performed in-depth literature research on the Manifestation
+        of Gender Inequality in Pakistan in cross-collaboration with the head of
+        the anthropology and sociology department. Conducted interviews and presented
+        speeches at conferences to raise awareness and enlighten on gender inequality.
+        - Presented work at GLCA Women’s, Gender, and Sexuality Studies
+        Collective Undergraduate Research and Activism Conference.
+        - Presented work at Summer Scholars Symposium.
+
+    - role: Data Analyst Intern
+      time: Summer 2019
+      company: Jadeed Builders, Islamabad, Pakistan
+      details: |
+        Over the summer, I assisted in the development of research and analysis of
+        market dynamics related to specific initiatives within the set time and
+        budget frame. Promoted brand by providing assistance to the SCRUM master
+        in web development, and marketing construction.
+        - Used SQL, Tableau, and Python to organize and interpret purchasing trends.
+        - Assisted in developing a computational marketing strategy that recruited 100+ potential buyers
+
+    - role: Tutor for Computer Science
+      time: Spring 2019 - Spring 2021
+      company: Denison ARC Tutors
+      details: |
+        Over the school years, I supported students with all levels of the computer
+        science curriculum with concepts and homework.
+        - Integrated competencies, goals, and objectives into lesson plans to
+        meet performance goals.
+        - Clarified mathematical foundations of computer science to understand
+        the operations of computer programs, algorithms, and programming languages.
+        - Instruct students on facets of Python, C++, MySQL, unity, and
+        other relevant technologies.
+
+
 projects:
     title: Projects
     intro: >
-      You can list your side projects or open source libraries in this
-      section. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-      Vestibulum et ligula in nunc bibendum fringilla a eu lectus.
+      Here are some of my projects that I have worked on over the years in my
+      computer science career.
     assignments:
-      - title: Velocity
-        link: "#hook"
-        tagline: "A responsive website template designed to help startups promote, market and sell their products."
+      - title: Image Reconstruction applying K-means - Color Comparison and Error Reduction
+        link: "https://github.com/khalid-a-1/k-means-algorithm"
+        tagline: "Implementation of the k-means algorithm to an image for vector quantization."
 
-      - title: DevStudio
-        link: "#"
-        tagline: "A responsive website template designed to help web developers/designers market their services."
+      - title: Stroke Prediction Classification Accuracy using Decision Trees
+        link: "https://github.com/khalid-a-1/Supervised-Learning"
+        tagline: "An experiment in the supervised learning paradigm."
 
-      - title: Tempo
-        link: "#"
-        tagline: "A responsive website template designed to help startups promote their products or services and to attract users &amp; investors"
+      - title: Reinforcement Learning
+        link: "https://github.com/khalid-a-1/reinforcement-learning"
+        tagline: "Application of various algorithms related to Reinforcement Learning to tackle the same problem and compare the relative performance."
 
-      - title: Atom
-        link: "#"
-        tagline: "A comprehensive website template solution for startups/developers to market their mobile apps."
+      - title: K-Nearest Neighbor Algorithm
+        link: "https://github.com/khalid-a-1/K-Nearest-Neighbor"
+        tagline: "Implementation and training of the K-Nearest Neighbor Algorithm."
 
-      - title: Delta
-        link: "#"
-        tagline: "A responsive Bootstrap one page theme designed to help app developers promote their mobile apps"
+      - title: DroneX
+        link: "https://github.com/khalid-a-1/DroneX"
+        tagline: "DroneX is a programming language for drones, built using Lex & Yacc."
 
 publications:
     title: Publications
     intro: |
-      You can list your publications in this section. Lorem ipsum dolor sit
-      amet, consectetur adipiscing elit. Vestibulum et ligula in nunc
-      bibendum fringilla a eu lectus.
+      Accessible published work
     papers:
-      - title: The Art of Computer Programming
-        link: "#"
-        authors: Donald E. Knuth
-        conference: Addison-Wesley, 1968
-
-      - title: "Genetic Programming III: Darwinian Invention &amp; Problem Solving"
-        link: "#"
-        authors: Koza, J.R., Andre, D., Bennett, F.H., Keane, M.A.
-        conference: "Morgan Kaufmann Publishers Inc., San Francisco, CA, USA, 1st edn. (1999)"
-
-      - title: A syntax directed compiler for Algol 60
-        link: "#"
-        authors: Edgar T. Irons
-        conference: "Comm. ACM 4 (1961), 51–55"
+      - title: The Manifestation of Gender Inequality in Pakistan
+        link: "https://digitalcommons.denison.edu/cgi/viewcontent.cgi?article=1041&context=studentscholarship#:~:text=Pakistan%2C%20set%20as%20a%20patriarchal,political%20status%20in%20the%20society."
+        authors: Amna Khalid
+        conference: Summer Scholars Symposium
 
 skills:
     title: Skills &amp; Proficiency
 
     toolset:
-      - name: Python & Django
+      - name: Word, Excel, PowerPoint
+        level: 100%
+
+      - name: Python
         level: 98%
 
-      - name: Javascript & jQuery
-        level: 98%
+      - name: C++, C#, C, R
+        level: 80%
 
-      - name: Angular
-        level: 98%
+      - name: HTML & x86 Assembly
+        level: 65%
 
-      - name: HTML5 & CSS
-        level: 95%
-
-      - name: Ruby on Rails
-        level: 85%
-
-      - name: Sketch & Photoshop
+      - name: Java, JavaScript, and Ruby
         level: 60%
-
-footer: >
-    Designed with <i class="fas fa-heart"></i> by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a>
