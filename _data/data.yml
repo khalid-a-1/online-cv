@@ -95,7 +95,7 @@ experiences:
           - Built and maintained strong working networks with students that strengthened
           alumni connections.
 
-    - role: Software Developer Intern
+    - role: Software Engineer Intern
       time: Summer 2021
       company: SM Associates and Builders, Islamabad, Pakistan
       details: |
@@ -185,7 +185,7 @@ projects:
 
       - title: K-Nearest Neighbor Algorithm
         link: "https://github.com/khalid-a-1/K-Nearest-Neighbor"
-        tagline: "K-Nearest Neighbor Algorithm implementation to classify the Fisher’s Iris data.."
+        tagline: "K-Nearest Neighbor Algorithm implementation to classify the Fisher’s Iris data."
 
       - title: DroneX
         link: "https://github.com/khalid-a-1/DroneX"
