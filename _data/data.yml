@@ -50,7 +50,7 @@ career-profile:
     summary: |
       Growing up in Pakistan, an early lesson I was taught was that computer
       science is a man’s field. However, negative stereotyping did not impede
-      my interest in the field. In fact, I grew more stubborn to become part of
+      my interest in the field. In fact, I grew more persistent to become part of
       a field that was reluctant to admit me. So I started applying for my
       bachelor’s degree abroad to different countries where women had more autonomy
       and opportunities to navigate their field of choice. As soon as I received
@@ -99,9 +99,9 @@ experiences:
       time: Summer 2021
       company: SM Associates and Builders, Islamabad, Pakistan
       details: |
-        Over the summer, I interned at a real estate investment company,
-        combining data science to help solve the toughest challenges in
-        real estate investment management and private equity.
+        I interned at a real estate investment company,combining data
+        science to help solve the toughest challenges in real estate 
+        investment management and private equity.
           - Designed and applied an automated solution to a monthly task
           that took 18+ hours and reduced it to 1-hour max.
           - Collaborated with investment professionals to integrate
@@ -144,7 +144,7 @@ experiences:
       time: Summer 2019
       company: Jadeed Builders, Islamabad, Pakistan
       details: |
-        Over the summer, I assisted in the development of research and analysis of
+        In this role, I assisted in the development of research and analysis of
         market dynamics related to specific initiatives within the set time and
         budget frame. Promoted brand by providing assistance to the SCRUM master
         in web development, and marketing construction.
@@ -155,7 +155,7 @@ experiences:
       time: Spring 2019 - Spring 2021
       company: Denison ARC Tutors
       details: |
-        Over the school years, I supported students with all levels of the computer
+        Over the academic year, I supported students with all levels of the computer
         science curriculum with concepts and homework.
         - Integrated competencies, goals, and objectives into lesson plans to
         meet performance goals.
@@ -177,19 +177,23 @@ projects:
 
       - title: Stroke Prediction Classification Accuracy using Decision Trees
         link: "https://github.com/khalid-a-1/Supervised-Learning"
-        tagline: "An experiment in the supervised learning paradigm."
+        tagline: "Classification and regression model for a supervised learning paradigm."
 
       - title: Reinforcement Learning
         link: "https://github.com/khalid-a-1/reinforcement-learning"
-        tagline: "Application of various algorithms related to Reinforcement Learning to tackle the same problem and compare the relative performance."
+        tagline: "Application of various Reinforcement Learning algorithms to play Chutes & Ladders optimally and compare the relative performance."
 
       - title: K-Nearest Neighbor Algorithm
         link: "https://github.com/khalid-a-1/K-Nearest-Neighbor"
-        tagline: "Implementation and training of the K-Nearest Neighbor Algorithm."
+        tagline: "K-Nearest Neighbor Algorithm implementation to classify the Fisher’s Iris data.."
 
       - title: DroneX
         link: "https://github.com/khalid-a-1/DroneX"
         tagline: "DroneX is a programming language for drones, built using Lex & Yacc."
+        
+      - title: Data Privacy Techniques
+        link: "https://github.com/khalid-a-1/data-privacy-techniques"
+        tagline: "An implementation of SMPC techniques and differential privacy."
 
 publications:
     title: Publications
@@ -217,6 +221,6 @@ skills:
       - name: HTML & x86 Assembly
         level: 65%
 
-      - name: Java, JavaScript, and Ruby
+      - name: Java, JavaScript, Angular and Ruby
         level: 60%
         
