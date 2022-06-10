@@ -8,7 +8,7 @@ sidebar:
 
     # Profile information
     name: Amna Khalid
-    tagline: Incoming Software Engineer at Morningstar 
+    tagline: Incoming Associate Software Engineer at Morningstar
     avatar: mee.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
     # Sidebar links
@@ -94,6 +94,19 @@ experiences:
           articles, blogs, and social content.
           - Built and maintained strong working networks with students that strengthened
           alumni connections.
+        
+    - role: Teachers Assistant
+      time: Fall 2020 - Spring 2022
+      company: Black Studies, Denison University
+      details: |
+        During the school year, I deliver technical support and educational resources
+        to the professor and students to ensure smooth workflow. Provide educational
+        support to students by managing and administering educational resources.
+        - Support to the professor and students with technology as well as educational
+        resources to navigate specific technology platforms such as unity.
+        - Surveyed and used computational marketing tools to find better ways to
+        connect students with advertisements in order to promote the
+        BLST department and its events.
 
     - role: Software Engineer Intern
       time: Summer 2021
@@ -112,19 +125,6 @@ experiences:
           - Communicated product priorities to stakeholders using scrum methodology.
           - Saved upwards of $10K within the property maintenance budgets.
           - Introduced to the functioning of Angular.
-
-    - role: Teachers Assistant
-      time: Fall 2020 - Spring 2022
-      company: Black Studies, Denison University
-      details: |
-        During the school year, I deliver technical support and educational resources
-        to the professor and students to ensure smooth workflow. Provide educational
-        support to students by managing and administering educational resources.
-        - Support to the professor and students with technology as well as educational
-        resources to navigate specific technology platforms such as unity.
-        - Surveyed and used computational marketing tools to find better ways to
-        connect students with advertisements in order to promote the
-        BLST department and its events.
 
     - role: Summer Researcher
       time: Summer 2020
@@ -198,12 +198,12 @@ projects:
 publications:
     title: Publications
     intro: |
-      Accessible published work
+      Accessible published work at Denison Digital Commons Library
     papers:
       - title: The Manifestation of Gender Inequality in Pakistan
         link: "https://digitalcommons.denison.edu/cgi/viewcontent.cgi?article=1041&context=studentscholarship#:~:text=Pakistan%2C%20set%20as%20a%20patriarchal,political%20status%20in%20the%20society."
         authors: Amna Khalid
-        conference: - Summer Scholars Symposium; GLCA Women’s, Gender, and Sexuality Studies Collective Undergraduate Research and Activism Conference
+        conference: Summer Scholars Symposium; GLCA Women’s, Gender, and Sexuality Studies Collective Undergraduate Research and Activism Conference
 
 skills:
     title: Skills &amp; Proficiency
