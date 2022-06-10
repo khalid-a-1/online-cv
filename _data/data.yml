@@ -8,11 +8,11 @@ sidebar:
 
     # Profile information
     name: Amna Khalid
-    tagline: Student at Denison University
+    tagline: Incoming Software Engineer at Morningstar 
     avatar: mee.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
     # Sidebar links
-    email: khalid_a1@denison.edu
+    email: amna.amina1@gmail.com
     phone: (734) 727-3162
     linkedin: -amna-khalid-world
     github: khalid-a-1
@@ -76,7 +76,7 @@ education:
 
 experiences:
     - role: Peer Career Fellow
-      time: Fall 2021 - Present
+      time: Fall 2021 - Spring 2022
       company: Knowlton Center for Career Exploration, Denison University
       details: |
         Over the semester, I serve as a Peer Career Fellow for the Science,
@@ -114,7 +114,7 @@ experiences:
           - Introduced to the functioning of Angular.
 
     - role: Teachers Assistant
-      time: Fall 2020 - Present
+      time: Fall 2020 - Spring 2022
       company: Black Studies, Denison University
       details: |
         During the school year, I deliver technical support and educational resources
